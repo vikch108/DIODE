@@ -15,6 +15,7 @@ The standard symbol for a diode in electronic circuit diagrams is a triangle wit
 
 
 ![image-36](https://user-images.githubusercontent.com/121287040/209969499-f08d0265-6cd1-4b57-bcdc-fd36ead2d289.png)
+SYMBOL OF DIODE
 
 
 
@@ -35,7 +36,7 @@ LED technology has made significant progress in recent years, with the developme
 
 
 ![Laser-diode](https://user-images.githubusercontent.com/121287040/209970616-b0607768-fa0a-4c19-9294-851bb8c0ddf0.png)
-
+SYMBOL OF LIGHT EMITTING DIODE
 
 LASERT DIODE:
 
@@ -46,11 +47,11 @@ Laser diodes can produce highly focused, monochromatic light and are able to mai
 
 
 ![Laser-diode](https://user-images.githubusercontent.com/121287040/209970386-6b2fd37d-271e-4be9-b70e-4d98bb2c9366.png)
-
+SYMBOL OF LASER DIODE
 
 
  
-Avalanche diode
+AVALANCHE DIODE
 
 
 An avalanche diode is a type of semiconductor diode that is designed to operate in the avalanche breakdown region, where the electric field in the device becomes strong enough to cause a significant number of electrons and holes to be created through the impact ionization process. This results in a large increase in the current flowing through the diode, which is why it is called an "avalanche" diode.
@@ -60,7 +61,7 @@ Avalanche diodes have a high breakdown voltage and can withstand large reverse v
 
 
  ![Avalanche-Diode-Symbol](https://user-images.githubusercontent.com/121287040/209970749-853530f7-3100-44e2-93bf-1823ddee10f7.jpg)
-
+SYMBOL OF AVALANCHE DIODE
 
 
 ZENER DIODE:
@@ -74,7 +75,7 @@ Zener diodes have a predictable and controlled breakdown voltage, which makes th
 
 
 ![Symbol-of-Zener-Diode](https://user-images.githubusercontent.com/121287040/209970801-c6fda788-d9de-4ace-a740-28a59c1e3f2d.jpg)
-
+SYMBOL OF ZENER DIODE
 
  
 SCHOTTKY DIODE:
@@ -88,7 +89,7 @@ Schottky diodes have a number of advantages over other types of diodes. They hav
 
 
  ![640px-Schottky_diode_symbol svg](https://user-images.githubusercontent.com/121287040/209970886-cb228317-a97e-47d4-93b7-fd85f12455f4.png)
-
+SYMBOL OF SCHOTTKY DIODE
 
 
 PHOTODIODE:
@@ -99,7 +100,7 @@ There are several types of photodiodes, including p-n photodiodes, p-i-n photodi
 
 
 ![0fca1d1f-bdb2-4c0f-92f1-880a4f2586f1](https://user-images.githubusercontent.com/121287040/209970973-5c6cf8b3-a486-491a-b1db-71ab68fce427.jpg)
-
+SYMBOL OF PHOTODIODE DIODE
 
 
 
